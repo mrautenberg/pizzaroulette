@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="/stylesheets/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/stylesheets/style.css" />
+    <title>Pizza Roulette</title>
+  </head>
+
+  <body>
+    <div id="container">
+      <h1 class="animate">Pizza Roulette</h1>
+
+      <div class="formContainer">
+        <form action="/" method="post">
+          <button type="submit" class="slumpa">Slumpa</button>
+          <button type="submit" name="fullrandom" class="mini">
+            full random
+          </button>
+          <div class="flexForm">
+            <div id="selectForm" style="display: block">
+              <select id="restaurang" name="restaurang">
+                <option value="lillaitalien">Lilla Italien</option>
+                <option value="chrilles">Chrilles Pizzeria</option>
+                <option value="kaktusen">Kaktusen Pizzeria</option>
+                <option value="pizzahornet">Pizzahörnet</option>
+              </select>
+
+              <div id="selectMini">
+                <img
+                  src="/images/medium/taerning.png"
+                  width="40"
+                  height="40"
+                  alt="slumpa"
+                />
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>

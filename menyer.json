@@ -1,0 +1,1392 @@
+{
+  "lillaitalien": [
+    {
+      "pizzaId": 1,
+      "pizzaName": "Margherita",
+      "pizzaIng": "tomatsås, ost"
+    },
+    {
+      "pizzaId": 2,
+      "pizzaName": "Al Tonno",
+      "pizzaIng": "tonfisk"
+    },
+    {
+      "pizzaId": 3,
+      "pizzaName": "Funghi",
+      "pizzaIng": "champinjoner"
+    },
+    {
+      "pizzaId": 4,
+      "pizzaName": "Vesuvio",
+      "pizzaIng": "skinka"
+    },
+    {
+      "pizzaId": 5,
+      "pizzaName": "Bologna",
+      "pizzaIng": "köttfärs, lök"
+    },
+    {
+      "pizzaId": 6,
+      "pizzaName": "Salamio",
+      "pizzaIng": "salami"
+    },
+    {
+      "pizzaId": 7,
+      "pizzaName": "Pepperoni",
+      "pizzaIng": "pepperonikorv"
+    },
+    {
+      "pizzaId": 8,
+      "pizzaName": "Calzone",
+      "pizzaIng": "skinka"
+    },
+    {
+      "pizzaId": 9,
+      "pizzaName": "Capricciosa",
+      "pizzaIng": "skinka, champinjoner"
+    },
+    {
+      "pizzaId": 10,
+      "pizzaName": "Opera",
+      "pizzaIng": "skinka, tonfisk"
+    },
+    {
+      "pizzaId": 11,
+      "pizzaName": "Napolitana",
+      "pizzaIng": "sardeller, oliver, kapris"
+    },
+    {
+      "pizzaId": 12,
+      "pizzaName": "Hawaii",
+      "pizzaIng": "skinka, ananas"
+    },
+    {
+      "pizzaId": 13,
+      "pizzaName": "Cacciatore",
+      "pizzaIng": "salami, lök, oliver"
+    },
+    {
+      "pizzaId": 14,
+      "pizzaName": "Big Ben",
+      "pizzaIng": "bacon, lök, ägg"
+    },
+    {
+      "pizzaId": 15,
+      "pizzaName": "Tropicana",
+      "pizzaIng": "skinka, ananas, banan, curry"
+    },
+    {
+      "pizzaId": 16,
+      "pizzaName": "Vegetariana",
+      "pizzaIng": "champinjoner, lök, paprika, oliver, kronärtskocka, sparris"
+    },
+    {
+      "pizzaId": 17,
+      "pizzaName": "Milano",
+      "pizzaIng": "skinka, gorgonzola"
+    },
+    {
+      "pizzaId": 18,
+      "pizzaName": "Fresca",
+      "pizzaIng": "champinjoner, lök, paprika, färsk tomat, vitlök"
+    },
+    {
+      "pizzaId": 19,
+      "pizzaName": "Mexicana",
+      "pizzaIng": "köttfärs, lök, paprika, majs, tacokrydda, tacosås"
+    },
+    {
+      "pizzaId": 20,
+      "pizzaName": "Kebabpizza",
+      "pizzaIng": "kebab, lök, peperoni, färsk tomat, tomatsås (rödsås), vitlökssås"
+    },
+    {
+      "pizzaId": 21,
+      "pizzaName": "Gringo",
+      "pizzaIng": "skinka, jalapeños, tacosås, tacokrydda, gräddfil"
+    },
+    {
+      "pizzaId": 22,
+      "pizzaName": "Piazza",
+      "pizzaIng": "räkor, vitlök, färsk persilja"
+    },
+    {
+      "pizzaId": 23,
+      "pizzaName": "Venezia",
+      "pizzaIng": "räkor, champinjoner"
+    },
+    {
+      "pizzaId": 24,
+      "pizzaName": "Amore",
+      "pizzaIng": "pepperonikorv, räkor, lök"
+    },
+    {
+      "pizzaId": 25,
+      "pizzaName": "Marinara",
+      "pizzaIng": "räkor, musslor"
+    },
+    {
+      "pizzaId": 26,
+      "pizzaName": "Bussola",
+      "pizzaIng": "räkor, skinka"
+    },
+    {
+      "pizzaId": 27,
+      "pizzaName": "Gyrospizza",
+      "pizzaIng": "gyros, lök, peperoni, tomat, gyrosdressing"
+    },
+    {
+      "pizzaId": 28,
+      "pizzaName": "Bagarens special",
+      "pizzaIng": "kebab, isbergssallad, tomat, peperoni, rödlök, tomatsås(rödsås), vitlökssås"
+    },
+    {
+      "pizzaId": 29,
+      "pizzaName": "Romana",
+      "pizzaIng": "skinka, räkor, champinjoner"
+    },
+    {
+      "pizzaId": 30,
+      "pizzaName": "Quattro Stagioni",
+      "pizzaIng": "skinka, musslor, räkor, champinjoner, kronärtskocka, oliver"
+    },
+    {
+      "pizzaId": 31,
+      "pizzaName": "Al Capone",
+      "pizzaIng": "fläskfilé, banan, curry"
+    },
+    {
+      "pizzaId": 32,
+      "pizzaName": "Calzone special",
+      "pizzaIng": "skinka, räkor, champinjoner"
+    },
+    {
+      "pizzaId": 33,
+      "pizzaName": "Al pepe",
+      "pizzaIng": "skinka, salami, pepperonikorv, ägg"
+    },
+    {
+      "pizzaId": 34,
+      "pizzaName": "Gratinate",
+      "pizzaIng": "skinka, räkor, champinjoner, lök, paprika, gratinerad ost"
+    },
+    {
+      "pizzaId": 35,
+      "pizzaName": "Papa galo",
+      "pizzaIng": "(inbakad) gorgonzola, salami, vitlök"
+    },
+    {
+      "pizzaId": 36,
+      "pizzaName": "Al pollo",
+      "pizzaIng": "kyckling, ananas, curry"
+    },
+    {
+      "pizzaId": 37,
+      "pizzaName": "Torpedo",
+      "pizzaIng": "fetaost, köttfärs, salami, lök, ruccola"
+    },
+    {
+      "pizzaId": 38,
+      "pizzaName": "Provencale",
+      "pizzaIng": "oxfilé, champinjoner, lök, bearnaisesås"
+    },
+    {
+      "pizzaId": 39,
+      "pizzaName": "Lilla Italien",
+      "pizzaIng": "fläskfile, lök, färsk tomat, kantareller, bearnaisesås"
+    },
+    {
+      "pizzaId": 40,
+      "pizzaName": "Al doppio",
+      "pizzaIng": "(dubbel inbakad) skinka, räkor, champinjoner"
+    },
+    {
+      "pizzaId": 41,
+      "pizzaName": "Sommargibile",
+      "pizzaIng": "(halv inbakad) oxfilé, champinjoner, lök, färsk tomat, bearnaisesås"
+    },
+    {
+      "pizzaId": 42,
+      "pizzaName": "Bandito",
+      "pizzaIng": "oxfilé, champinjoner, lök, färsk vitlök, tacosås, tacokrydda, jalapeños"
+    },
+    {
+      "pizzaId": 43,
+      "pizzaName": "Honungspizza",
+      "pizzaIng": "kyckling, ananas, jalapeños, srirachasås, honung"
+    },
+    {
+      "pizzaId": 44,
+      "pizzaName": "Madre natura",
+      "pizzaIng": "tomatsås, vegansk ost, zucchini, aubergine, spenat, purjolök, avokado, färsk basilika"
+    },
+    {
+      "pizzaId": 45,
+      "pizzaName": "Sogno vegano",
+      "pizzaIng": "tomatsås, vegansk ost, vegansk sojakött, champinjoner, soltorkad tomat, paprika, rödlök, ruccola"
+    },
+    {
+      "pizzaId": 46,
+      "pizzaName": "Pollo grande",
+      "pizzaIng": "kyckling, spenat, zucchini, färsk vitlök"
+    },
+    {
+      "pizzaId": 47,
+      "pizzaName": "Capo",
+      "pizzaIng": "soltorkad tomat, champinjoner, färsk basilika, färsk vitlök"
+    },
+    {
+      "pizzaId": 48,
+      "pizzaName": "Bresaola",
+      "pizzaIng": "champinjoner, färsk tomat, lök, bresaola, pinjenötter, färsk basilika"
+    },
+    {
+      "pizzaId": 49,
+      "pizzaName": "Mezzaluna",
+      "pizzaIng": "prosciutto, ruccola, olivolja, havssalt, skinka"
+    },
+    {
+      "pizzaId": 50,
+      "pizzaName": "Orto",
+      "pizzaIng": "aubergine, paprika, champinjoner, zucchini, tomater, vitlök, oliver"
+    },
+    {
+      "pizzaId": 51,
+      "pizzaName": "Pulcino",
+      "pizzaIng": "kyckling, lök, spenat, chevréost, röd pesto, ruccola"
+    },
+    {
+      "pizzaId": 52,
+      "pizzaName": "Pronto",
+      "pizzaIng": "pepperonikorv, fetaost, soltorkad tomat, färsk basilika"
+    },
+    {
+      "pizzaId": 53,
+      "pizzaName": "Verde",
+      "pizzaIng": "zucchini, aubergine, spenat, soltorkad tomat"
+    },
+    {
+      "pizzaId": 54,
+      "pizzaName": "Quattro formaggi",
+      "pizzaIng": "brie, gorgonzola, parmesan, färsk basilika"
+    },
+    {
+      "pizzaId": 55,
+      "pizzaName": "Pomodore",
+      "pizzaIng": "prosciutto, mortadella, färsk basilika"
+    },
+    {
+      "pizzaId": 56,
+      "pizzaName": "Fantasia",
+      "pizzaIng": "paprika, ananas, banan, soltorkad tomat, färsk basilika"
+    },
+    {
+      "pizzaId": 57,
+      "pizzaName": "Ciao bella",
+      "pizzaIng": "oxfilé, soltorkad tomat, vitlök, olivolja, havssalt"
+    },
+    {
+      "pizzaId": 58,
+      "pizzaName": "Italiano",
+      "pizzaIng": "prosciutto, mortadella, salami, oliver, färska tomater"
+    },
+    {
+      "pizzaId": 59,
+      "pizzaName": "Cozze",
+      "pizzaIng": "blå musslor, räkor, vitlök, färsk persilja"
+    },
+    {
+      "pizzaId": 60,
+      "pizzaName": "Frutti di mare",
+      "pizzaIng": "blå musslor, scampi, röd kaviar, vitlök, lök"
+    },
+    {
+      "pizzaId": 61,
+      "pizzaName": "Parma",
+      "pizzaIng": "prosciutto, lök, oliver, tomater, ruccola"
+    },
+    {
+      "pizzaId": 62,
+      "pizzaName": "Al diavolo",
+      "pizzaIng": "italiensk stark salami, lök, paprika, oliver, ruccola"
+    },
+    {
+      "pizzaId": 63,
+      "pizzaName": "Chévre",
+      "pizzaIng": "chévreost, rödlök, valnötter, honung, körsbärstomater, ruccola"
+    },
+    {
+      "pizzaId": 64,
+      "pizzaName": "Con salsiccia",
+      "pizzaIng": "salsiccia, körsbärstomater, champinjoner, grana padano, färsk basilika"
+    }
+  ],
+
+  "pizzahornet": [
+    {
+      "pizzaId": 1,
+      "pizzaName": "Margherita",
+      "pizzaIng": "tomatsås, ost"
+    },
+    {
+      "pizzaId": 2,
+      "pizzaName": "Funghi",
+      "pizzaIng": "färska champinjoner"
+    },
+    {
+      "pizzaId": 3,
+      "pizzaName": "Vesuvio",
+      "pizzaIng": "skinka"
+    },
+    {
+      "pizzaId": 4,
+      "pizzaName": "Pescatore",
+      "pizzaIng": "tonfisk"
+    },
+    {
+      "pizzaId": 5,
+      "pizzaName": "Chili",
+      "pizzaIng": "skinka, lök, chilikrydda"
+    },
+    {
+      "pizzaId": 6,
+      "pizzaName": "Capricciosa",
+      "pizzaIng": "skinka, färska champinjoner"
+    },
+    {
+      "pizzaId": 7,
+      "pizzaName": "Hawaii",
+      "pizzaIng": "skinka, ananas"
+    },
+    {
+      "pizzaId": 8,
+      "pizzaName": "Bussola",
+      "pizzaIng": "skinka, räkor"
+    },
+    {
+      "pizzaId": 9,
+      "pizzaName": "Riviera",
+      "pizzaIng": "färska champinjoner, räkor"
+    },
+    {
+      "pizzaId": 10,
+      "pizzaName": "Sole Mio",
+      "pizzaIng": "skinka, tonfisk"
+    },
+    {
+      "pizzaId": 11,
+      "pizzaName": "Bolognese",
+      "pizzaIng": "färska champinjoner, lök, köttfärs"
+    },
+    {
+      "pizzaId": 12,
+      "pizzaName": "Taormina",
+      "pizzaIng": "bacon, lök"
+    },
+    {
+      "pizzaId": 13,
+      "pizzaName": "Napoletana",
+      "pizzaIng": "sardeller, oliver"
+    },
+    {
+      "pizzaId": 14,
+      "pizzaName": "Marinara",
+      "pizzaIng": "räkor, musslor"
+    },
+    {
+      "pizzaId": 15,
+      "pizzaName": "Cacciatore",
+      "pizzaIng": "salami, lök"
+    },
+    {
+      "pizzaId": 16,
+      "pizzaName": "Venezia",
+      "pizzaIng": "salami, färsk paprika"
+    },
+    {
+      "pizzaId": 17,
+      "pizzaName": "Pepperoni",
+      "pizzaIng": "salami, skinka, lök"
+    },
+    {
+      "pizzaId": 18,
+      "pizzaName": "Della Casa",
+      "pizzaIng": "salami, färska tomater, färska champinjoner, lök"
+    },
+    {
+      "pizzaId": 19,
+      "pizzaName": "Pizza Esse",
+      "pizzaIng": "bacon, salami, lök, ägg"
+    },
+    {
+      "pizzaId": 20,
+      "pizzaName": "Vegetariana",
+      "pizzaIng": "färska champinjoner, lök, paprika, oliver, kronärtskocka"
+    },
+    {
+      "pizzaId": 21,
+      "pizzaName": "Mille Fiori",
+      "pizzaIng": "skinka, räkor, färska champinjoner"
+    },
+    {
+      "pizzaId": 22,
+      "pizzaName": "Del Sole",
+      "pizzaIng": "skinka, tonfisk, räkor"
+    },
+    {
+      "pizzaId": 23,
+      "pizzaName": "Quattro Stagioni",
+      "pizzaIng": "skinka, färska champinjoner, räkor, oliver, musslor, kronärtskocksbottnar"
+    },
+    {
+      "pizzaId": 24,
+      "pizzaName": "La Banana",
+      "pizzaIng": "skinka, ananas, banan, curry"
+    },
+    {
+      "pizzaId": 25,
+      "pizzaName": "Pollo",
+      "pizzaIng": "kyckling, ananas, färsk paprika, curry"
+    },
+    {
+      "pizzaId": 26,
+      "pizzaName": "Pizza Alex",
+      "pizzaIng": "kyckling, banan, curry, jordnötter"
+    },
+    {
+      "pizzaId": 27,
+      "pizzaName": "Indiana",
+      "pizzaIng": "räkor, ananas, färsk paprika, oliver, lök, curry"
+    },
+    {
+      "pizzaId": 28,
+      "pizzaName": "Amalfi",
+      "pizzaIng": "räkor, marinerad vitlök, persilja"
+    },
+    {
+      "pizzaId": 29,
+      "pizzaName": "Mozzarella",
+      "pizzaIng": "mozzarella, skinka, färska tomater"
+    },
+    {
+      "pizzaId": 30,
+      "pizzaName": "Parmigiano",
+      "pizzaIng": "parmigiano, skinka, färska tomater"
+    },
+    {
+      "pizzaId": 31,
+      "pizzaName": "La Gorgonzola",
+      "pizzaIng": "gorgonzola, skinka"
+    },
+    {
+      "pizzaId": 32,
+      "pizzaName": "Gratinate",
+      "pizzaIng": "färska champinjoner, räkor, skinka, lök, färsk paprika"
+    },
+    {
+      "pizzaId": 33,
+      "pizzaName": "Tempesta",
+      "pizzaIng": "fårost, spenat, färska tomater, ruccola"
+    },
+    {
+      "pizzaId": 34,
+      "pizzaName": "Kebabpizza",
+      "pizzaIng": "kebabkött, lök, fefferoni, vitlökssås"
+    },
+    {
+      "pizzaId": 35,
+      "pizzaName": "Kebab Gorgon",
+      "pizzaIng": "kebabkött, gorgonzola, tomater, gurka, isbergssallad, vitlökssås"
+    },
+    {
+      "pizzaId": 36,
+      "pizzaName": "Kebab Fårost",
+      "pizzaIng": "kebabkött, fårost, tomater, gurka, isbergssallad, vilökssås"
+    },
+    {
+      "pizzaId": 37,
+      "pizzaName": "Viking",
+      "pizzaIng": "kebabkött, tomater, lök, feferoni, isbergssallad, vitlökssås"
+    },
+    {
+      "pizzaId": 38,
+      "pizzaName": "Kebab Special",
+      "pizzaIng": "champinjoner, tomater, fefferoni, kebabkött, vitlökssås"
+    },
+    {
+      "pizzaId": 39,
+      "pizzaName": "Mexicana Due",
+      "pizzaIng": "kyckling, jalapeno, lök, vitlök, tacosås"
+    },
+    {
+      "pizzaId": 40,
+      "pizzaName": "Azteka",
+      "pizzaIng": "skinka"
+    },
+    {
+      "pizzaId": 41,
+      "pizzaName": "Mexicana",
+      "pizzaIng": "köttfärs, lök, pepperoni, vitlök, tacosås, tacokrydda, jalapeno"
+    },
+    {
+      "pizzaId": 42,
+      "pizzaName": "Acapulco",
+      "pizzaIng": "oxfilé, champinjoner, lök, tacosås, tacokrydda, jalapeno"
+    },
+    {
+      "pizzaId": 43,
+      "pizzaName": "Calzone",
+      "pizzaIng": "skinka"
+    },
+    {
+      "pizzaId": 44,
+      "pizzaName": "Gonzone",
+      "pizzaIng": "Gorgonzola, skinka"
+    },
+    {
+      "pizzaId": 45,
+      "pizzaName": "Calzone Special",
+      "pizzaIng": "skinka, räkor, färska champinjoner"
+    },
+    {
+      "pizzaId": 46,
+      "pizzaName": "IL Re ",
+      "pizzaIng": "(dubbelinbakad) skinka, räkor, färska champinjoner"
+    },
+    {
+      "pizzaId": 47,
+      "pizzaName": "La Regina",
+      "pizzaIng": "(dubbelinbakad) salami, fefferoni, färska champinjoner"
+    },
+    {
+      "pizzaId": 48,
+      "pizzaName": "Ciao Ciao",
+      "pizzaIng": "(halvinbakad) oxfilé, färska champinjoner, lök, tomater, bearnaisesås"
+    },
+    {
+      "pizzaId": 49,
+      "pizzaName": "Pizza Cheddarost",
+      "pizzaIng": "cheddarost, oxfile, jalapeno, tomater, röda bönor, ruccola"
+    },
+    {
+      "pizzaId": 50,
+      "pizzaName": "Pecora",
+      "pizzaIng": "oxfilé, gorgonzola, fårost, färsk paprika"
+    },
+    {
+      "pizzaId": 51,
+      "pizzaName": "Oxfilé",
+      "pizzaIng": "oxfilé, färska champinjoner, färska tomater, bearnaise"
+    },
+    {
+      "pizzaId": 52,
+      "pizzaName": "Quattro Formaggi",
+      "pizzaIng": "4 sorters italiensk ost, skinka, tomater, basilika"
+    },
+    {
+      "pizzaId": 53,
+      "pizzaName": "Gambero",
+      "pizzaIng": "scampi, räkor, vitlök, persilja"
+    },
+    {
+      "pizzaId": 54,
+      "pizzaName": "Frutti di Mare",
+      "pizzaIng": "musslor i skal, räkor, scampi, marinerad vitlök"
+    },
+    {
+      "pizzaId": 55,
+      "pizzaName": "Hörnet",
+      "pizzaIng": "mozzarella, italiensk salami, marinerad vitlök, kapris"
+    },
+    {
+      "pizzaId": 56,
+      "pizzaName": "Salamino",
+      "pizzaIng": "mozzarella, stark italiensk salami, tomater, basilika"
+    },
+    {
+      "pizzaId": 57,
+      "pizzaName": "Ortolana",
+      "pizzaIng": "mozzarella, tomater, champinjoner, oliver, grillad paprika, zucchini, aubergine"
+    },
+    {
+      "pizzaId": 58,
+      "pizzaName": "Crudo",
+      "pizzaIng": "mozzarella, prosciutto, grillad paprika, oliver"
+    },
+    {
+      "pizzaId": 59,
+      "pizzaName": "Forno",
+      "pizzaIng": "mozzarella, prosciutto, champinjoner, ruccola"
+    },
+    {
+      "pizzaId": 60,
+      "pizzaName": "Spinaci",
+      "pizzaIng": "spenat, fårost, färsk sparris, kronärtskocka, grillad paprika, ruccola"
+    },
+    {
+      "pizzaId": 61,
+      "pizzaName": "Pesto",
+      "pizzaIng": "spenat, fårost, pesto, champinjoner, färsk sparris"
+    },
+    {
+      "pizzaId": 62,
+      "pizzaName": "Yasmine",
+      "pizzaIng": "mozzarella, fårost, pesto, champinjoner, ruccola, grillad paprika"
+    },
+    {
+      "pizzaId": 63,
+      "pizzaName": "Le Chef",
+      "pizzaIng": "mozzarella, prosciutto, soltorkade tomater, oliver, basilika, svartpeppar"
+    },
+    {
+      "pizzaId": 64,
+      "pizzaName": "Bresaola",
+      "pizzaIng": "mozzarella, pecorino, bresaola, ruccola, parmesan"
+    },
+    {
+      "pizzaId": 65,
+      "pizzaName": "Melissa",
+      "pizzaIng": "bresola, pinjenötter, mozzarella, soltorkade tomater, ruccola, parmesan"
+    },
+    {
+      "pizzaId": 66,
+      "pizzaName": "Mezza Luna",
+      "pizzaIng": "skinka, mozarella, prosciutto, ruccola, havssalt"
+    },
+    {
+      "pizzaId": 67,
+      "pizzaName": "Honolulu",
+      "pizzaIng": "skinka, ananas, banan, curry, räkor"
+    },
+    {
+      "pizzaId": 68,
+      "pizzaName": "Arizona",
+      "pizzaIng": "skinka, bacon, lök, champinjoner, tomater"
+    },
+    {
+      "pizzaId": 69,
+      "pizzaName": "San Francisco",
+      "pizzaIng": "skinka, lök, champinjoner, oliver, paprika, tomater"
+    },
+    {
+      "pizzaId": 70,
+      "pizzaName": "California",
+      "pizzaIng": "gorgonzola, skinka, tomater, lök"
+    },
+    {
+      "pizzaId": 71,
+      "pizzaName": "Texas",
+      "pizzaIng": "oxfilé, tomater, paprika, pepperoni"
+    },
+    {
+      "pizzaId": 72,
+      "pizzaName": "Dallas",
+      "pizzaIng": "oxfilé, tomater, champinjoner, bearnaisesås"
+    }
+  ],
+
+  "chrilles": [
+    {
+      "pizzaId": 1,
+      "pizzaName": "Margherita",
+      "pizzaIng": "tomatsås, ost"
+    },
+    {
+      "pizzaId": 2,
+      "pizzaName": "Campagnola",
+      "pizzaIng": "champinjoner"
+    },
+    {
+      "pizzaId": 3,
+      "pizzaName": "Vesuvio",
+      "pizzaIng": "skinka"
+    },
+    {
+      "pizzaId": 4,
+      "pizzaName": "Capricciosa",
+      "pizzaIng": "skinka, champinjoner"
+    },
+    {
+      "pizzaId": 5,
+      "pizzaName": "Hawaii",
+      "pizzaIng": "skinka, ananas"
+    },
+    {
+      "pizzaId": 6,
+      "pizzaName": "Italia",
+      "pizzaIng": "skinka, räkor, champinjoner"
+    },
+    {
+      "pizzaId": 7,
+      "pizzaName": "Romana",
+      "pizzaIng": "skinka, räkor"
+    },
+    {
+      "pizzaId": 8,
+      "pizzaName": "Opera",
+      "pizzaIng": "skinka, tonfisk"
+    },
+    {
+      "pizzaId": 9,
+      "pizzaName": "Al Tono",
+      "pizzaIng": "tonfisk"
+    },
+    {
+      "pizzaId": 10,
+      "pizzaName": "Bolognese",
+      "pizzaIng": "köttfärs, lök"
+    },
+    {
+      "pizzaId": 11,
+      "pizzaName": "La Banana",
+      "pizzaIng": "skinka, banan, curry"
+    },
+    {
+      "pizzaId": 12,
+      "pizzaName": "Rimini",
+      "pizzaIng": "räkor, champinjoner"
+    },
+    {
+      "pizzaId": 13,
+      "pizzaName": "Primavera",
+      "pizzaIng": "salami, lök"
+    },
+    {
+      "pizzaId": 14,
+      "pizzaName": "Marinara",
+      "pizzaIng": "räkor, musslor"
+    },
+    {
+      "pizzaId": 15,
+      "pizzaName": "Tutti Frutti",
+      "pizzaIng": "ananas, banan, curry"
+    },
+    {
+      "pizzaId": 16,
+      "pizzaName": "Rossana",
+      "pizzaIng": "räkor, champinjoner, kronärtskocka"
+    },
+    {
+      "pizzaId": 17,
+      "pizzaName": "Gorgonzola",
+      "pizzaIng": "skinka, gorgonzola"
+    },
+    {
+      "pizzaId": 18,
+      "pizzaName": "Tyresö Special",
+      "pizzaIng": "skinka, paprika, champinjoner, lök"
+    },
+    {
+      "pizzaId": 19,
+      "pizzaName": "Bassimo",
+      "pizzaIng": "skinka, salami, lök, oliver"
+    },
+    {
+      "pizzaId": 20,
+      "pizzaName": "Vegetarisk",
+      "pizzaIng": "champinjoner, paprika, lök, kronärtskocka, oliver"
+    },
+    {
+      "pizzaId": 21,
+      "pizzaName": "Bollmora Special",
+      "pizzaIng": "kyckling, champinjoner, lök"
+    },
+    {
+      "pizzaId": 22,
+      "pizzaName": "Tropicana",
+      "pizzaIng": "skinka, ananas, banan, curry"
+    },
+    {
+      "pizzaId": 23,
+      "pizzaName": "Athena",
+      "pizzaIng": "köttfärs, bearnaisesås"
+    },
+    {
+      "pizzaId": 24,
+      "pizzaName": "Palermo",
+      "pizzaIng": "räkor, musslor, tonfisk"
+    },
+    {
+      "pizzaId": 25,
+      "pizzaName": "Ananas",
+      "pizzaIng": "skinka, räkor, ananas, curry"
+    },
+    {
+      "pizzaId": 26,
+      "pizzaName": "Mamma Mia",
+      "pizzaIng": "köttfärs, salami, lök, paprika"
+    },
+    {
+      "pizzaId": 27,
+      "pizzaName": "Big Ben",
+      "pizzaIng": "Bacon, ägg, lök"
+    },
+    {
+      "pizzaId": 28,
+      "pizzaName": "Quattro Stagioni",
+      "pizzaIng": "skinka, räkor, champinjoner, musslor, oliver, kronärtskocka"
+    },
+    {
+      "pizzaId": 29,
+      "pizzaName": "Chrilles Special",
+      "pizzaIng": "skinka, musslor, champinjoner, tonfisk, räkor, paprika, kronärtskocka"
+    },
+    {
+      "pizzaId": 30,
+      "pizzaName": "Calzone",
+      "pizzaIng": "(Inbakad) skinka"
+    },
+    {
+      "pizzaId": 31,
+      "pizzaName": "Calzone special",
+      "pizzaIng": "(Inbakad) skinka, räkor, champinjoner"
+    },
+    {
+      "pizzaId": 32,
+      "pizzaName": "Tefat",
+      "pizzaIng": "(Dubbelinbakad) skinka, räkor, champinjoner"
+    },
+    {
+      "pizzaId": 33,
+      "pizzaName": "Apollo",
+      "pizzaIng": "fetaost, bacon, lök, oliver"
+    },
+    {
+      "pizzaId": 34,
+      "pizzaName": "Peasana",
+      "pizzaIng": "fetaost, salami, tomater"
+    },
+    {
+      "pizzaId": 35,
+      "pizzaName": "Gogiano",
+      "pizzaIng": "fetaost, tomater, lök, champinjoner, paprika"
+    },
+    {
+      "pizzaId": 36,
+      "pizzaName": "Kebabpizza",
+      "pizzaIng": "kebabkött, fefferoni, isbergssallad, lök, tomater, kebabsås, vitlökssås"
+    },
+    {
+      "pizzaId": 37,
+      "pizzaName": "Gyrospizza",
+      "pizzaIng": "gyroskött, fefferoni, isbergssallad, lök, tomater, gyrossås, vitlökssås"
+    },
+    {
+      "pizzaId": 38,
+      "pizzaName": "Azteka",
+      "pizzaIng": "skinka, tacosås, tzatziki, jalapeños, tacokrydda"
+    },
+    {
+      "pizzaId": 39,
+      "pizzaName": "Mexicana",
+      "pizzaIng": "köttfärs, tacosås, vitlök, tacokrydda, jalapeños"
+    },
+    {
+      "pizzaId": 40,
+      "pizzaName": "Acapulco",
+      "pizzaIng": "oxfilé, champinjoner, lök, tacosås, vitlök, jalapeños"
+    },
+    {
+      "pizzaId": 41,
+      "pizzaName": "Venedig",
+      "pizzaIng": "oxfilé, champinjoner, bearnaisesås"
+    },
+    {
+      "pizzaId": 42,
+      "pizzaName": "Milano",
+      "pizzaIng": "oxfilé, gorgonzolaost, fefferoni"
+    },
+    {
+      "pizzaId": 43,
+      "pizzaName": "Liverno",
+      "pizzaIng": "oxfilé, lök, champinjoner, bearnaisesås, tomater"
+    },
+    {
+      "pizzaId": 44,
+      "pizzaName": "Toscana",
+      "pizzaIng": "oxfilé, fetaost, oliver, tomater, fefferoni"
+    },
+    {
+      "pizzaId": 45,
+      "pizzaName": "Quattro Formaggi",
+      "pizzaIng": "mozzarella, fetaost, pizzaost, gorgonzola, ruccola"
+    },
+    {
+      "pizzaId": 46,
+      "pizzaName": "Roma",
+      "pizzaIng": "parmaskinka, tomat, ruccola"
+    },
+    {
+      "pizzaId": 47,
+      "pizzaName": "Solemio",
+      "pizzaIng": "salami, skinka, champinjoner, ruccola"
+    },
+    {
+      "pizzaId": 48,
+      "pizzaName": "Amore",
+      "pizzaIng": "skinka, köttfärs, lök, bearnaisesås, ruccola"
+    },
+    {
+      "pizzaId": 49,
+      "pizzaName": "Seafoodpizza",
+      "pizzaIng": "räkor, musslor, tonfisk, vitlök, ruccola"
+    },
+    {
+      "pizzaId": 50,
+      "pizzaName": "Napoli",
+      "pizzaIng": "fläskfilé, champinjoner, lök, paprika, bearnaisesås, ruccola"
+    },
+    {
+      "pizzaId": 51,
+      "pizzaName": "Ciao Ciao",
+      "pizzaIng": "oxfilé, champinjoner, lök, paprika, bearnaisesås, ruccola"
+    }
+  ],
+  "kaktusen": [
+    {
+      "pizzaId": 1,
+      "pizzaName": "Margherita",
+      "pizzaIng": "tomatsås, ost"
+    },
+    {
+      "pizzaId": 2,
+      "pizzaName": "Vesuvio",
+      "pizzaIng": "skinka"
+    },
+    {
+      "pizzaId": 3,
+      "pizzaName": "Funghi",
+      "pizzaIng": "champinjoner"
+    },
+    {
+      "pizzaId": 4,
+      "pizzaName": "Al Tonno",
+      "pizzaIng": "tonfisk"
+    },
+    {
+      "pizzaId": 5,
+      "pizzaName": "Cappricciosa",
+      "pizzaIng": "skinka, champinjoner"
+    },
+    {
+      "pizzaId": 6,
+      "pizzaName": "Bussola",
+      "pizzaIng": "skinka, räkor"
+    },
+    {
+      "pizzaId": 7,
+      "pizzaName": "Opera",
+      "pizzaIng": "skinka, tonfisk"
+    },
+    {
+      "pizzaId": 8,
+      "pizzaName": "Marinara",
+      "pizzaIng": "räkor, musslor"
+    },
+    {
+      "pizzaId": 9,
+      "pizzaName": "Napoletana",
+      "pizzaIng": "sardeller, oliver"
+    },
+    {
+      "pizzaId": 10,
+      "pizzaName": "Taormina",
+      "pizzaIng": "bacon, lök"
+    },
+    {
+      "pizzaId": 11,
+      "pizzaName": "Bologna",
+      "pizzaIng": "köttfärs, lök"
+    },
+    {
+      "pizzaId": 12,
+      "pizzaName": "Hawaii",
+      "pizzaIng": "skinka, ananas"
+    },
+    {
+      "pizzaId": 13,
+      "pizzaName": "Rosa Pantern",
+      "pizzaIng": "räkor, persilja"
+    },
+    {
+      "pizzaId": 14,
+      "pizzaName": "Cacciatore",
+      "pizzaIng": "salami, lök"
+    },
+    {
+      "pizzaId": 15,
+      "pizzaName": "Venezia",
+      "pizzaIng": "salami, paprika"
+    },
+    {
+      "pizzaId": 16,
+      "pizzaName": "Sorrento",
+      "pizzaIng": "salami, ananas"
+    },
+    {
+      "pizzaId": 17,
+      "pizzaName": "Fefferoni",
+      "pizzaIng": "salami, peperoni"
+    },
+    {
+      "pizzaId": 18,
+      "pizzaName": "Big Ben",
+      "pizzaIng": "bacon, ägg"
+    },
+    {
+      "pizzaId": 19,
+      "pizzaName": "Gorgonzola",
+      "pizzaIng": "gorgonzola"
+    },
+    {
+      "pizzaId": 20,
+      "pizzaName": "Romana",
+      "pizzaIng": "skinka, räkor, champinjoner"
+    },
+    {
+      "pizzaId": 21,
+      "pizzaName": "Pescatora",
+      "pizzaIng": "räkor, musslor, champinjoner"
+    },
+    {
+      "pizzaId": 22,
+      "pizzaName": "Quattro Stagioni",
+      "pizzaIng": "skinka, champinjoner, räkor, musslor, oliver, kronärtskocka"
+    },
+    {
+      "pizzaId": 23,
+      "pizzaName": "Vegetarisk",
+      "pizzaIng": "champinjoner, lök, paprika, oliver, kronärtskocka"
+    },
+    {
+      "pizzaId": 24,
+      "pizzaName": "Manolito",
+      "pizzaIng": "skinka, räkor, sparris"
+    },
+    {
+      "pizzaId": 25,
+      "pizzaName": "Maffioso",
+      "pizzaIng": "köttfärs, lök, vitlök, svartpeppar"
+    },
+    {
+      "pizzaId": 26,
+      "pizzaName": "Tropicana",
+      "pizzaIng": "skinka, banan, ananas, curry"
+    },
+    {
+      "pizzaId": 27,
+      "pizzaName": "Kebabpizza",
+      "pizzaIng": "kebabkött, färska tomater, peperoni, kebab sås"
+    },
+    {
+      "pizzaId": 28,
+      "pizzaName": "Pepperonikorvpizza",
+      "pizzaIng": "äkta pepperonikorv, färsk paprika, lök"
+    },
+    {
+      "pizzaId": 29,
+      "pizzaName": "Indiana",
+      "pizzaIng": "skinka, banan räkor, ananas"
+    },
+    {
+      "pizzaId": 30,
+      "pizzaName": "Kycklingpizza",
+      "pizzaIng": "kyckling, banan, räkor, ananas"
+    },
+    {
+      "pizzaId": 31,
+      "pizzaName": "Provencale",
+      "pizzaIng": "(gratinerad) skinka, champinjoner, räkor, lök, paprika"
+    },
+    {
+      "pizzaId": 32,
+      "pizzaName": "Siesta",
+      "pizzaIng": "gorgonzola, broccoli, vitlök"
+    },
+    {
+      "pizzaId": 33,
+      "pizzaName": "Milano",
+      "pizzaIng": "gorgonzola, skinka"
+    },
+    {
+      "pizzaId": 34,
+      "pizzaName": "Mexicana",
+      "pizzaIng": "köttfärs, paprika, majs, lök, kryddor, tabasco"
+    },
+    {
+      "pizzaId": 35,
+      "pizzaName": "Calzone",
+      "pizzaIng": "skinka"
+    },
+    {
+      "pizzaId": 36,
+      "pizzaName": "Calzone Special",
+      "pizzaIng": "skinka, räkor"
+    },
+    {
+      "pizzaId": 37,
+      "pizzaName": "Mona Lisa",
+      "pizzaIng": "skinka, champinjoner"
+    },
+    {
+      "pizzaId": 38,
+      "pizzaName": "Kaktus",
+      "pizzaIng": "köttfärs, vitlök, lök, champinjoner, tabasco, svartpeppar"
+    },
+    {
+      "pizzaId": 39,
+      "pizzaName": "Viking",
+      "pizzaIng": "kebab, isberg, tomat, lök, pepperoni, sås"
+    },
+    {
+      "pizzaId": 40,
+      "pizzaName": "Tefat",
+      "pizzaIng": "(dubbel inbakad) skinka, räkor, champinjoner"
+    },
+    {
+      "pizzaId": 41,
+      "pizzaName": "Tyresö Special",
+      "pizzaIng": "oxfilé, lök, vitlök, bearnaisesås"
+    },
+    {
+      "pizzaId": 42,
+      "pizzaName": "Bollmora Special",
+      "pizzaIng": "färska champinjoner, färsk tomat, färsk paprika, oxfilé, bearnaisesås"
+    },
+    {
+      "pizzaId": 43,
+      "pizzaName": "Amadeus",
+      "pizzaIng": "fläskfilé, lök, färska tomater, champinjoner, bearnaisesås"
+    },
+    {
+      "pizzaId": 44,
+      "pizzaName": "Azteka",
+      "pizzaIng": "skinka, tacokryddmix, jalapeno, gräddfil, tacosås"
+    },
+    {
+      "pizzaId": 45,
+      "pizzaName": "Taco",
+      "pizzaIng": "köttfärs, tacokryddmix, vitlök, lök, jalapeno, tacosås"
+    },
+    {
+      "pizzaId": 46,
+      "pizzaName": "Acapulco",
+      "pizzaIng": "oxfilé, champinjoner, vitlök, lök, tacokryddmix, jalapeno, tacosås"
+    },
+    {
+      "pizzaId": 47,
+      "pizzaName": "Puebla",
+      "pizzaIng": "skinka, tacokryddmix, kebabkött, tacosås"
+    },
+    {
+      "pizzaId": 48,
+      "pizzaName": "Inka",
+      "pizzaIng": "fläskfilé, paprika, lök, färska tomater, bearnaisesås, jalapeno"
+    },
+    {
+      "pizzaId": 49,
+      "pizzaName": "Den Gode",
+      "pizzaIng": "kyckling, ananas, curry, jalapeno, paprika, tacosås"
+    },
+    {
+      "pizzaId": 50,
+      "pizzaName": "Gringo",
+      "pizzaIng": "skinka, köttfärs, salami, bacon, färska tomater"
+    },
+    {
+      "pizzaId": 51,
+      "pizzaName": "Färsk Grönsakspizza",
+      "pizzaIng": "lök, färska champinjoner, färsk paprika, färska tomater, vitlök, persilja"
+    },
+    {
+      "pizzaId": 52,
+      "pizzaName": "Spenat",
+      "pizzaIng": "spenat, fårost, färska champinjoner, färska tomater, vitlök"
+    },
+    {
+      "pizzaId": 53,
+      "pizzaName": "Al Capone",
+      "pizzaIng": "fläskfilé, banan, curry"
+    },
+    {
+      "pizzaId": 54,
+      "pizzaName": "Piraten",
+      "pizzaIng": "crabfish, svart kaviar, räkor"
+    },
+    {
+      "pizzaId": 55,
+      "pizzaName": "Ancona",
+      "pizzaIng": "fläskfilé, gorgonzola, purjolök, champinjoner"
+    },
+    {
+      "pizzaId": 56,
+      "pizzaName": "Verona",
+      "pizzaIng": "salami, purjolök, färska champinjoner, färska tomater"
+    },
+    {
+      "pizzaId": 57,
+      "pizzaName": "Levent Special",
+      "pizzaIng": "kebabkött/sås, isbergsallad, lök, färska tomater, peperoni"
+    },
+    {
+      "pizzaId": 58,
+      "pizzaName": "Siciliana",
+      "pizzaIng": "köttfärssås, räkor, salami, lök, tabasco"
+    },
+    {
+      "pizzaId": 59,
+      "pizzaName": "Fårost Pizza",
+      "pizzaIng": "färska tomater, färks paprika, lök, peperoni, fårost, salami"
+    },
+    {
+      "pizzaId": 60,
+      "pizzaName": "Il Capo",
+      "pizzaIng": "marinerad oxfilé, gorgonzola"
+    },
+    {
+      "pizzaId": 61,
+      "pizzaName": "Gudfadern",
+      "pizzaIng": "marinerad oxfilé, champinjoner, lök"
+    },
+    {
+      "pizzaId": 62,
+      "pizzaName": "Amigo",
+      "pizzaIng": "marinerad oxfilé, bearnaisesås"
+    },
+    {
+      "pizzaId": 63,
+      "pizzaName": "Le Chef",
+      "pizzaIng": "färska tomater, lufttorkad skinka, oliver, basilika"
+    },
+    {
+      "pizzaId": 64,
+      "pizzaName": "V.M.S",
+      "pizzaIng": "mozzarella, oxfilé, pepperonikorv, lök, vitlök, persilja"
+    },
+    {
+      "pizzaId": 65,
+      "pizzaName": "Mezaluna",
+      "pizzaIng": "(halv inbakad) inbakad del:tomat, mozzarella, skinka, öppen del: tomat, mozzarella, lufttorkad skinka, ruccola, havssalt"
+    },
+    {
+      "pizzaId": 66,
+      "pizzaName": "Inter",
+      "pizzaIng": "fläskfilé, färska tomater, färska champinjoner, bearnaisesås"
+    },
+    {
+      "pizzaId": 67,
+      "pizzaName": "Formaggi",
+      "pizzaIng": "gorgonzolaost, fårost, parmesanost"
+    },
+    {
+      "pizzaId": 68,
+      "pizzaName": "Salamino",
+      "pizzaIng": "italiensk stark salami, färska tomater, basilika"
+    },
+    {
+      "pizzaId": 69,
+      "pizzaName": "Pomodoro",
+      "pizzaIng": "soltorkade tomater, färska champinjoner, pesto, ruccola"
+    },
+    {
+      "pizzaId": 70,
+      "pizzaName": "Pizza Pimodena",
+      "pizzaIng": "marinerad scampi, spenat, färska champinjoner, havssalt, citron"
+    },
+    {
+      "pizzaId": 71,
+      "pizzaName": "Fantasia",
+      "pizzaIng": "lufttorkad skinka, soltorkad tomat, pesto, basilika"
+    },
+    {
+      "pizzaId": 72,
+      "pizzaName": "Piccante",
+      "pizzaIng": "italiensk stark salami, färsk paprika, svarta oliver"
+    },
+    {
+      "pizzaId": 73,
+      "pizzaName": "Caprese",
+      "pizzaIng": "italiensk stark salami, parmesanost, soltorkade tomater, ruccola"
+    },
+    {
+      "pizzaId": 74,
+      "pizzaName": "Verdure",
+      "pizzaIng": "färsk paprika, aubergin, färska tomater, färska champinjoner, kronärtskocka, lök, oliver, ruccola"
+    },
+    {
+      "pizzaId": 75,
+      "pizzaName": "Crudo",
+      "pizzaIng": "lufttorkad skinka, parmesanost, ruccola"
+    },
+    {
+      "pizzaId": 76,
+      "pizzaName": "Antica",
+      "pizzaIng": "färska champinjoner, fläskfilé, oliver, ruccola, bearnaisesås"
+    },
+    {
+      "pizzaId": 77,
+      "pizzaName": "Guelfa",
+      "pizzaIng": "färska tomater, färska champinjoner, oxfilé, parmesanost, ruccola, bearnaisesås"
+    },
+    {
+      "pizzaId": 78,
+      "pizzaName": "Frutti di Mare",
+      "pizzaIng": "musslor i skal, räkor, scampi, marinerad vitlök, persilija"
+    },
+    {
+      "pizzaId": 79,
+      "pizzaName": "Calabra",
+      "pizzaIng": "peperonikorv, fårost, soltorkade tomater, basilika"
+    },
+    {
+      "pizzaId": 80,
+      "pizzaName": "Bresola",
+      "pizzaIng": "lufttorkad oxfilé, färska champinjoner, färska tomater, parmesanost, ruccola"
+    },
+    {
+      "pizzaId": 81,
+      "pizzaName": "Texas",
+      "pizzaIng": "skinka, färska champinjoner, lök, räkor, färska tomater"
+    },
+    {
+      "pizzaId": 82,
+      "pizzaName": "California",
+      "pizzaIng": "skinka, räkor, banan, ananas, curry"
+    },
+    {
+      "pizzaId": 83,
+      "pizzaName": "Denver",
+      "pizzaIng": "räkor, musslor, krabba, tonfisk, svart kaviar"
+    },
+    {
+      "pizzaId": 84,
+      "pizzaName": "Dallas",
+      "pizzaIng": "oxfilé, färska champinjoner, lök, bearnaisesås"
+    },
+    {
+      "pizzaId": 85,
+      "pizzaName": "Arizona",
+      "pizzaIng": "skinka, bacon, färska champinjoner, färska tomater, lök"
+    },
+    {
+      "pizzaId": 86,
+      "pizzaName": "Las Vegas",
+      "pizzaIng": "skinka, salami, köttfärssås, ananas, färska tomater, färska champinjoner"
+    },
+    {
+      "pizzaId": 87,
+      "pizzaName": "Kansas",
+      "pizzaIng": "skinka, salami, färska tomater, lök"
+    },
+    {
+      "pizzaId": 88,
+      "pizzaName": "San Fransisco",
+      "pizzaIng": "skinka, gorgonzola, färska tomater, lök"
+    },
+    {
+      "pizzaId": 89,
+      "pizzaName": "Alaska",
+      "pizzaIng": "oxfilé, lök, paprika, peperoni, färska tomater"
+    }
+  ]
+}

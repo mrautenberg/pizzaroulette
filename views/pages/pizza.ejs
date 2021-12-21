@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+    <title>Pizza Roulette</title>
+</head>
+
+<body>
+    <div id='container'>
+        
+        <div class='pizzaContainer'>
+            
+           
+            <div class='pizzaText'>
+                
+                <div class='pizzaId'><div class='animate__animated animate__bounceInDown animate__delay-3s'><%=pizzeria%></div></div>
+                <div class='pizzaName'>#<%=pizzaNr%> <%=pizzaName%></div>
+                <div class='pizzaIng'><%=pizzaIng%></div>
+                
+            </div>
+        
+        
+        </div>
+       
+        <div class='formContainer'>
+            
+            <form action="/" method="post">
+                <button type="submit" class="slumpa">Slumpa</button> <button type="submit" name="fullrandom" value="yes"
+                    class="mini">full random</button>
+                    
+                    <div class="flexForm">
+                        
+                    <div id="selectForm">
+                    <select id="restaurang" name="restaurang">
+                        <option value="lillaitalien" <% if (restaurang === 'lillaitalien') { %>selected<% } %>>Lilla
+                            Italien</option>
+                        <option value="chrilles" <% if (restaurang === 'chrilles') { %>selected<% } %>>Chrilles Pizzeria
+                        </option>
+                        <option value="kaktusen" <% if (restaurang === 'kaktusen') { %>selected<% } %>>Pizzeria Kaktusen
+                        </option>
+                        <option value="pizzahornet" <% if (restaurang === 'pizzahornet') { %>selected<% } %>>Pizzahörnet
+                        </option>
+                    </select>
+                    <div id="selectMini"><img src="/images/medium/taerning.png" heigth="40" width="40" alt="slumpa"></div>
+                </div>
+            </div>
+            </form>
+            <div class='changeRest'><a href='#' onclick="showSelect();">Visa restaurang</a></div>
+            
+        </div>
+    </div>
+    <script src="/js/script.js"></script>
+</body>
