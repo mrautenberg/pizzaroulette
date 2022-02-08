@@ -8,6 +8,7 @@ function App() {
   // @TODO_HANS: update to an async function and use async await
 
   // @TODO: Decide if fetch all pizzas once when entering page or on state change
+
   useEffect(() => {
     fetch("db.json")
       .then((res) => res.json())
@@ -66,7 +67,9 @@ function App() {
           <option value="kaktusenPizzeria">Kaktusen Pizzeria</option>
           <option value="pizzeriaHornet">Pizzeria Hörnet</option>
         </select>
-        <button onClick={() => console.log("slumpa pizzeria")}>Tärning</button>
+        <button onClick={() => console.log("slumpa pizzeria")}>
+          <img src="/images/taerning.png" width="60" height="60" alt="slumpa" />
+        </button>
       </div>
     </div>
 
