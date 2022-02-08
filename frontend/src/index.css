@@ -1,11 +1,16 @@
-@import url("https://fonts.googleapis.com/css2?family=Handlee&family=Josefin+Sans:ital,wght@0,100;0,300;0,400;1,300;1,400&family=Roboto:wght@300;500;900&display=swap");
+/**
+  Can be written in the same way as reset.css / index.css
+  Remember to use className instead of class when writing JSX 
+**/
+
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Josefin+Sans:ital,wght@0,100;0,300;0,400;1,300;1,400&family=Roboto:wght@300;500;900&display=swap');
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   text-align: center;
   font-size: 2rem;
   background: #333;
