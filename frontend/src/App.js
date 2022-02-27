@@ -1,48 +1,108 @@
-import { useState, useEffect } from 'react'
+import React from 'react'
 import Pizza from './components/Pizza'
 
 function App() {
-  const [showPizza, setShowPizza] = useState(false)
+  // @todo: Refactor state
+  const [fullRandom, setFullRandom] = React.useState(null)
+  const [isLoading, setIsLoading] = React.useState(false)
+  const [randomPizza, setRandomPizza] = React.useState(null)
+  const [randomPlace, setRandomPlace] = React.useState(null)
 
-  // @TODO: filtrering av pizzerior
-  // @TODO_HANS: update to an async function and use async await
+  const fetchRandom = React.useCallback(async () => {
+    setIsLoading(true)
+    setRandomPizza(false)
+    setRandomPlace(false)
 
-  // @TODO: Decide if fetch all pizzas once when entering page or on state change
-  useEffect(() => {
-    fetch('db.json')
-      .then((res) => res.json())
-      .then((data) => console.log(data))
-      .catch((err) => console.log(err))
-  }, [showPizza])
+    // animation shows when loading
+
+    try {
+      const res = await fetch('db.json')
+      const data = await res.json()
+      setFullRandom(data)
+      console.log(data)
+    } catch (err) {
+      console.error(err)
+    }
+
+    console.log('Fetch Random Place Ran')
+    setIsLoading(false)
+  }, [])
+
+  const fetchRandomPizza = React.useCallback(async () => {
+    setIsLoading(true)
+    setFullRandom(false)
+    setRandomPlace(false)
+
+    // animation shows when loading
+
+    try {
+      const res = await fetch('db.json')
+      const data = await res.json()
+      setRandomPizza(data)
+      console.log(data)
+    } catch (err) {
+      console.error(err)
+    }
+
+    console.log('Fetch Random Place Ran')
+    setIsLoading(false)
+  }, [])
+
+  const fetchRandomPlace = React.useCallback(async () => {
+    setIsLoading(true)
+    setFullRandom(false)
+    setRandomPizza(false)
+
+    // animation shows when loading
+
+    try {
+      const res = await fetch('db.json')
+      const data = await res.json()
+      setRandomPlace(data)
+      console.log(data)
+    } catch (err) {
+      console.error(err)
+    }
+
+    console.log('Fetch Random Place Ran')
+    setIsLoading(false)
+  }, [])
 
   const buttonContainer = {
-    display: 'flex',
-    flexDirection: 'column',
-    justifyContent: 'center',
-    alignItems: 'center',
+    display: 'grid',
+    gridTemplateColumns: '4fr 1fr',
+    gridTemplateRows: 'auto',
+
+    width: '60%',
+    margin: '0 auto',
+    maxWidth: '600px',
   }
 
   return (
-    <div className="App">
+    <div>
       <h1>Pizza Roulette</h1>
 
-      {showPizza && <Pizza />}
+      {randomPizza && <Pizza />}
+      {fullRandom && <p>full random</p>}
+      {randomPlace && <p>random place</p>}
+      {isLoading && <p>Loading...</p>}
 
       <div style={buttonContainer}>
-        <button onClick={() => setShowPizza(!showPizza)}>Slumpa</button>
-        <button onClick={() => console.log('full random')}>Full random</button>
-        <button onClick={() => console.log('slumpa pizzeria')}>Tärning</button>
+        <button onClick={fetchRandomPizza}>Slumpa</button>
+        <button onClick={fetchRandom}>Full random</button>
+
+        <select name="" id="">
+          <option value="lillaItalien">Lilla Italien</option>
+          <option value="chrillesPizzeria">Chrilles Pizzeria</option>
+          <option value="kaktusenPizzeria">Kaktusen Pizzeria</option>
+          <option value="pizzeriaHornet">Pizzeria Hörnet</option>
+        </select>
+
+        <button onClick={fetchRandomPlace}>
+          <img src="/images/taerning.png" width="60" height="60" alt="slumpa" />
+        </button>
       </div>
     </div>
-
-    /*
-     *
-     * Vid slumpa eller full random --> pizzaanimation
-     * --> setShowPizza
-     *
-     * Spara pizzahistoria i LS/sessionStorage
-     *
-     */
   )
 }
 
